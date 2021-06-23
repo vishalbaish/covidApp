@@ -1,0 +1,13 @@
+.table {
+    border: 2px solid #000;
+    padding: 10px 30px;
+    background-color: #FAF1E6;
+}
+
+.table td {
+    padding: 5px;
+}
+
+.table tr {
+    cursor: pointer;
+}

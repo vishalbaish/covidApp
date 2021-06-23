@@ -1,0 +1,36 @@
+.app {
+    margin: 0;
+  }
+  
+  .app_header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    justify-content: center;
+  }
+  
+  .table {
+    text-decoration: none !important;
+    width: 60%;
+    margin: auto;
+    border: 2px solid #000;
+    padding: 10px 30px;
+    background-color: #FAF1E6;
+  }
+  
+  .table_heading {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .table_data2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style-type: none;
+  }
+  
+  .table_data2:hover {
+    background-color: #fff;
+  }
